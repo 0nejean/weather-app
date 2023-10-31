@@ -1,12 +1,12 @@
 .container {
-  /* width: 607px; */
   width: 100vw;
-  /* height: 829px; */
   height: 100vh;
   margin: auto;
+  background-image: linear-gradient(180deg, #f00861 0%, #da8aa8 100%);
+  /* width: 607px; */
+  /* height: 829px; */
   /* margin-top: 75px; */
   /* border-radius: 12px; */
-  background-image: linear-gradient(180deg, #f00861 0%, #da8aa8 100%);
 }
 
 .top-bar {
