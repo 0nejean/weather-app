@@ -13,7 +13,7 @@
   display: flex;
   justify-content: center;
   gap: 14px;
-  padding-top: 60px;
+  padding-top: 6.25rem;
 }
 .top-bar input {
   display: flex;
@@ -63,7 +63,7 @@
 }
 
 .data-container {
-  margin-top: 50px;
+  margin-top: 4.375rem;
   color: white;
   display: flex;
   justify-content: center;
